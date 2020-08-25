@@ -984,4 +984,4 @@
 
 - [@Baz031](https://github.com/Baz031)
 
-- [@hadeebataj] (http://github.com/hadeebataj)
+- [@hadeebataj](http://github.com/hadeebataj)
